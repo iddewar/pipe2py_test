@@ -72,7 +72,7 @@ def userPipesExport(uid):
 
 
 #Yahoo pipes user ID
-uid='exolab'
+uid='LVV5ABG2KWD7YYVG5KUOVSGKSE'
 
 userPipesExport(uid)
 
